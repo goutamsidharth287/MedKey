@@ -1,0 +1,1 @@
+"""Med Key application package."""
